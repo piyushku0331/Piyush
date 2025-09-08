@@ -1,9 +1,7 @@
-# Piyush
+# 🚀 Piyush Kumar 
 👨‍💻 Personal GitHub Profile | CSE Student | Aspiring Full Stack Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=200&section=header&text=Hi%20👋,%20I'm%20Piyush&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
-
-<h3 align="center">💻 Computer Science & Engineering Student | Aspiring Full Stack Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=120&section=header&text=Hi%20👋%20I'm%20Piyush&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Aspiring%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=7F3FBF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+in+progress;Love+to+learn+and+build;Modern+UIs+%7C+Dashboards+%7C+Web+Apps" />
@@ -18,7 +16,7 @@ I enjoy solving problems, building interactive web apps, and exploring the lates
 
 🌟 My current focus is on:  
 - 🎨 **Frontend Development** → React & CSS  
-- ⚙️ **Backend Development** → Node.js & Express  
+- ⚙️ **Backend Development** → Node.js, Express, Spring Boot  
 - 📊 **Projects** → Role-based dashboards, cooking websites, modern UIs  
 - 🚀 Becoming a **Full Stack Developer** who creates clean, scalable, and user-friendly apps  
 
@@ -30,9 +28,8 @@ I enjoy solving problems, building interactive web apps, and exploring the lates
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)]()
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 🎨 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,6 +40,7 @@ I enjoy solving problems, building interactive web apps, and exploring the lates
 #### ⚙️ Backend & Tools  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -58,6 +56,10 @@ I enjoy solving problems, building interactive web apps, and exploring the lates
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushku0331&repo=NotesApplication&theme=radical" />
   </a>
 </p>
+
+📌 **Descriptions**  
+- **Java_SpringBoot_Project** → `Java · Spring Boot · RESTful Notes App Backend with CRUD operations`  
+- **NotesApplication** → `Node.js · Express.js · RESTful Notes API with CRUD, Trash, Pinning, Search features`  
 
 ---
 
