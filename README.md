@@ -1,10 +1,12 @@
 # 🚀 Piyush Kumar  
 🌟 Personal GitHub Profile | CSE Student | Aspiring Full Stack Developer | Building Modern Web Apps
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20👋%20I'm%20Piyush&fontSize=45&fontAlignY=35&desc=Computer%20Science%20Student%20|%20Aspiring%20Full%20Stack%20Developer&descAlignY=55&descAlign=50&animation=fadeIn" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&text=HELLO%20WORLD&desc=Welcome%20to%20My%20Profile%20|%20Piyush%20Kumar&fontSize=40&descSize=18&descAlignY=65&animation=twinkling" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=7F3FBF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+in+progress;Love+to+learn+and+build;Modern+UIs+%7C+Dashboards+%7C+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=7F3FBF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+progress;Love+to+learn+and+build;Modern+UIs+%7C+Dashboards+%7C+Web+Apps" />
 </p>
 
 ---
@@ -50,10 +52,10 @@ I enjoy solving problems, building interactive web apps, and exploring the lates
 
 <p align="center">
   <a href="https://github.com/piyushku0331/Java_SpringBoot_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushku0331&repo=Java_SpringBoot_Project&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushku0331&repo=Java_SpringBoot_Project&theme=radical&description=Spring%20Boot%20project%20with%20RESTful%20APIs%20for%20efficient%20backend%20solutions" />
   </a>
   <a href="https://github.com/piyushku0331/NotesApplication">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushku0331&repo=NotesApplication&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushku0331&repo=NotesApplication&theme=radical&description=A%20CRUD%20based%20Notes%20App%20with%20secure%20and%20interactive%20features" />
   </a>
 </p>
 
