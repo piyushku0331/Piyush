@@ -5,6 +5,11 @@
 
 <h3 align="center">💻 Computer Science & Engineering Student | Aspiring Full Stack Developer</h3>
 
+<!-- Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=7F3FBF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+in+progress;Love+to+learn+and+build;Modern+UIs+%7C+Dashboards+%7C+Web+Apps" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me  
@@ -13,12 +18,10 @@ I’m **Piyush**, a passionate Computer Science & Engineering student at **Chitk
 I enjoy solving problems, building interactive web apps, and exploring the latest in frontend & backend development.  
 
 🌟 My current focus is on:  
-- 🔹 **Frontend Development** with React & Tailwind  
-- 🔹 **Backend Development** with Node.js & Express  
-- 🔹 Creating **modern, responsive, and animated UIs**  
-- 🔹 Building projects like role-based dashboards & cooking websites  
-
-⚡ My goal is to become a **Full Stack Developer** who creates **clean, scalable, and user-friendly apps**.  
+- 🎨 **Frontend Development** → React & Tailwind  
+- ⚙️ **Backend Development** → Node.js & Express  
+- 📊 **Projects** → Role-based dashboards, cooking websites, modern UIs  
+- 🚀 Becoming a **Full Stack Developer** who creates clean, scalable, and user-friendly apps  
 
 ---
 
@@ -45,6 +48,21 @@ I enjoy solving problems, building interactive web apps, and exploring the lates
 
 ---
 
+### 🚀 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/piyushku0331/your-dashboard-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushku0331&repo=your-dashboard-repo&theme=radical" />
+  </a>
+  <a href="https://github.com/piyushku0331/your-cooking-website-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushku0331&repo=your-cooking-website-repo&theme=radical" />
+  </a>
+</p>
+
+> _(Replace `your-dashboard-repo` and `your-cooking-website-repo` with your actual repo names)_
+
+---
+
 ### 📊 GitHub Stats  
 
 <p align="center">
@@ -67,6 +85,13 @@ I enjoy solving problems, building interactive web apps, and exploring the lates
   <a href="https://www.linkedin.com/in/piyush3110/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</p>
+
+---
+
+### ✨ Quote of the Day  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
