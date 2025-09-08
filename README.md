@@ -1,7 +1,7 @@
-# 🚀 Piyush Kumar 
-👨‍💻 Personal GitHub Profile | CSE Student | Aspiring Full Stack Developer
+# 🚀 Piyush Kumar  
+🌟 Personal GitHub Profile | CSE Student | Aspiring Full Stack Developer | Building Modern Web Apps
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7F3FBF&height=120&section=header&text=Hi%20👋%20I'm%20Piyush&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Aspiring%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20👋%20I'm%20Piyush&fontSize=45&fontAlignY=35&desc=Computer%20Science%20Student%20|%20Aspiring%20Full%20Stack%20Developer&descAlignY=55&descAlign=50&animation=fadeIn" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=7F3FBF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+in+progress;Love+to+learn+and+build;Modern+UIs+%7C+Dashboards+%7C+Web+Apps" />
@@ -57,10 +57,6 @@ I enjoy solving problems, building interactive web apps, and exploring the lates
   </a>
 </p>
 
-📌 **Descriptions**  
-- **Java_SpringBoot_Project** → `Java · Spring Boot · RESTful Notes App Backend with CRUD operations`  
-- **NotesApplication** → `Node.js · Express.js · RESTful Notes API with CRUD, Trash, Pinning, Search features`  
-
 ---
 
 ### 📊 GitHub Stats  
@@ -94,4 +90,4 @@ I enjoy solving problems, building interactive web apps, and exploring the lates
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
