@@ -1,11 +1,10 @@
 # Piyush
 👨‍💻 Personal GitHub Profile | CSE Student | Aspiring Full Stack Developer
-<!-- Gradient Header -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=200&section=header&text=Hi%20👋,%20I'm%20Piyush&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
 <h3 align="center">💻 Computer Science & Engineering Student | Aspiring Full Stack Developer</h3>
 
-<!-- Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=7F3FBF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+in+progress;Love+to+learn+and+build;Modern+UIs+%7C+Dashboards+%7C+Web+Apps" />
 </p>
@@ -18,7 +17,7 @@ I’m **Piyush**, a passionate Computer Science & Engineering student at **Chitk
 I enjoy solving problems, building interactive web apps, and exploring the latest in frontend & backend development.  
 
 🌟 My current focus is on:  
-- 🎨 **Frontend Development** → React & Tailwind  
+- 🎨 **Frontend Development** → React & CSS  
 - ⚙️ **Backend Development** → Node.js & Express  
 - 📊 **Projects** → Role-based dashboards, cooking websites, modern UIs  
 - 🚀 Becoming a **Full Stack Developer** who creates clean, scalable, and user-friendly apps  
@@ -38,7 +37,6 @@ I enjoy solving problems, building interactive web apps, and exploring the lates
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 #### ⚙️ Backend & Tools  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -51,15 +49,13 @@ I enjoy solving problems, building interactive web apps, and exploring the lates
 ### 🚀 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/piyushku0331/your-dashboard-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushku0331&repo=your-dashboard-repo&theme=radical" />
+  <a href="https://github.com/piyushku0331/Java_SpringBoot_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushku0331&repo=Java_SpringBoot_Project&theme=radical" />
   </a>
-  <a href="https://github.com/piyushku0331/your-cooking-website-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushku0331&repo=your-cooking-website-repo&theme=radical" />
+  <a href="https://github.com/piyushku0331/NotesApplication">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushku0331&repo=NotesApplication&theme=radical" />
   </a>
 </p>
-
-> _(Replace `your-dashboard-repo` and `your-cooking-website-repo` with your actual repo names)_
 
 ---
 
@@ -94,8 +90,4 @@ I enjoy solving problems, building interactive web apps, and exploring the lates
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
----
-
-<!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=100&section=footer"/>
-
